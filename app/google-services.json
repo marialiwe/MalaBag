@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754466477295",
+    "project_id": "mala-f24a4",
+    "storage_bucket": "mala-f24a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754466477295:android:00459eafc7bddb9701b71a",
+        "android_client_info": {
+          "package_name": "com.marcod.malabag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754466477295-nvmg50ipgsdnce9d1ehld9b9ansaqmi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kJ8ELttBoU7r_EsvoEjv79rKxrINVNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754466477295-nvmg50ipgsdnce9d1ehld9b9ansaqmi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
